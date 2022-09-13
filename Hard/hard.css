@@ -1,0 +1,39 @@
+h1, h2, h3, h4 {
+    text-align: center;
+}
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 40px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+#screenshot { 
+    width: 80%;
+    height: auto;
+
+}
+
+
+
+
+
+
+
+
+

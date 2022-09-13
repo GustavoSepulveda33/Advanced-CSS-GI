@@ -1,0 +1,62 @@
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 40px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+
+.OddRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.EvenRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.black {
+    background-color: black;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    /* margin: 0;
+    padding: 20px; */
+    height: 100px;
+    width: 100px;
+}
+
+.white {
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    color: white;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+

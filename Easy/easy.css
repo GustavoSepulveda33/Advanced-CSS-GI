@@ -1,0 +1,59 @@
+
+
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 40px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+
+
+table {
+    margin: 9px;
+    width: 1300px;
+    margin-left: 70px;
+}
+
+img {
+    position: absolute;
+    top: 443px;
+    left: 80px;
+    height: 380px;
+}
+
+
+.red-stripe {
+    color: red;
+    background-color: red;
+    width: 100%; 
+    height: 51px;
+}
+
+.white-stripe {
+    color: white;
+    width: 100px;
+    height: 50px;
+
+}
+
+
+
+
+
